@@ -32,5 +32,17 @@ To Run:-
 	(07) Input your question. (Make sure, you are connected to Internet)
 	(08) Wait for the answer
 
-[![Question-Answering-System](https://img.youtube.com/vi/o0zSm2Dffqs/0.jpg)](https://www.youtube.com/watch?v=o0zSm2Dffqs)
+if u face errors try these commends according to errors...
+
+py -m pip install --upgrade pip --user
+
+py -m pip install --upgrade nltk
+
+pip install WTForms==2.3.3
+
+pip install --upgrade google-api-python-client --user
+
+Required --> DataRequired @2 places
+
+change in wtf.html forms.target_tag() --> without ()
 
